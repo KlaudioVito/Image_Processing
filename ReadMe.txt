@@ -8,4 +8,6 @@ You have to be in the directory where the qip.pro file is located.
 
 Open the newly created qip project file with Visual Studio and run the project.
 
+See the PDF report for details.
+
 Enjoy!
